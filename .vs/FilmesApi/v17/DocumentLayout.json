@@ -3,36 +3,24 @@
   "WorkspaceRootPath": "C:\\curso\\FilmesApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B09E37D-5C35-4D1E-A2AA-AA0581A4C807}|FilmesApi\\FilmesApi.csproj|c:\\curso\\filmesapi\\filmesapi\\models\\sessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B09E37D-5C35-4D1E-A2AA-AA0581A4C807}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\models\\sessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B09E37D-5C35-4D1E-A2AA-AA0581A4C807}|FilmesApi\\FilmesApi.csproj|c:\\curso\\filmesapi\\filmesapi\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B09E37D-5C35-4D1E-A2AA-AA0581A4C807}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B09E37D-5C35-4D1E-A2AA-AA0581A4C807}|FilmesApi\\FilmesApi.csproj|c:\\curso\\filmesapi\\filmesapi\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B09E37D-5C35-4D1E-A2AA-AA0581A4C807}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B09E37D-5C35-4D1E-A2AA-AA0581A4C807}|FilmesApi\\FilmesApi.csproj|c:\\curso\\filmesapi\\filmesapi\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B09E37D-5C35-4D1E-A2AA-AA0581A4C807}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B09E37D-5C35-4D1E-A2AA-AA0581A4C807}|FilmesApi\\FilmesApi.csproj|c:\\curso\\filmesapi\\filmesapi\\models\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B09E37D-5C35-4D1E-A2AA-AA0581A4C807}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\models\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B09E37D-5C35-4D1E-A2AA-AA0581A4C807}|FilmesApi\\FilmesApi.csproj|c:\\curso\\filmesapi\\filmesapi\\profiles\\sessaoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B09E37D-5C35-4D1E-A2AA-AA0581A4C807}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\profiles\\sessaoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B09E37D-5C35-4D1E-A2AA-AA0581A4C807}|FilmesApi\\FilmesApi.csproj|c:\\curso\\filmesapi\\filmesapi\\controllers\\sessaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B09E37D-5C35-4D1E-A2AA-AA0581A4C807}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\controllers\\sessaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B09E37D-5C35-4D1E-A2AA-AA0581A4C807}|FilmesApi\\FilmesApi.csproj|c:\\curso\\filmesapi\\filmesapi\\data\\dtos\\createsessaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B09E37D-5C35-4D1E-A2AA-AA0581A4C807}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\data\\dtos\\createsessaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B09E37D-5C35-4D1E-A2AA-AA0581A4C807}|FilmesApi\\FilmesApi.csproj|c:\\curso\\filmesapi\\filmesapi\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B09E37D-5C35-4D1E-A2AA-AA0581A4C807}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B09E37D-5C35-4D1E-A2AA-AA0581A4C807}|FilmesApi\\FilmesApi.csproj|c:\\curso\\filmesapi\\filmesapi\\data\\filmecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B09E37D-5C35-4D1E-A2AA-AA0581A4C807}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\data\\filmecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B09E37D-5C35-4D1E-A2AA-AA0581A4C807}|FilmesApi\\FilmesApi.csproj|c:\\curso\\filmesapi\\filmesapi\\data\\dtos\\readsessaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B09E37D-5C35-4D1E-A2AA-AA0581A4C807}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\data\\dtos\\readsessaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B09E37D-5C35-4D1E-A2AA-AA0581A4C807}|FilmesApi\\FilmesApi.csproj|c:\\curso\\filmesapi\\filmesapi\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B09E37D-5C35-4D1E-A2AA-AA0581A4C807}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,110 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Cinema.cs",
-              "DocumentMoniker": "C:\\curso\\FilmesApi\\FilmesApi\\Models\\Cinema.cs",
-              "RelativeDocumentMoniker": "FilmesApi\\Models\\Cinema.cs",
-              "ToolTip": "C:\\curso\\FilmesApi\\FilmesApi\\Models\\Cinema.cs",
-              "RelativeToolTip": "FilmesApi\\Models\\Cinema.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T15:41:30.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FilmeContext.cs",
-              "DocumentMoniker": "C:\\curso\\FilmesApi\\FilmesApi\\Data\\FilmeContext.cs",
-              "RelativeDocumentMoniker": "FilmesApi\\Data\\FilmeContext.cs",
-              "ToolTip": "C:\\curso\\FilmesApi\\FilmesApi\\Data\\FilmeContext.cs",
-              "RelativeToolTip": "FilmesApi\\Data\\FilmeContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T15:18:06.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SessaoController.cs",
-              "DocumentMoniker": "C:\\curso\\FilmesApi\\FilmesApi\\Controllers\\SessaoController.cs",
-              "RelativeDocumentMoniker": "FilmesApi\\Controllers\\SessaoController.cs",
-              "ToolTip": "C:\\curso\\FilmesApi\\FilmesApi\\Controllers\\SessaoController.cs",
-              "RelativeToolTip": "FilmesApi\\Controllers\\SessaoController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T15:17:29.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SessaoProfile.cs",
-              "DocumentMoniker": "C:\\curso\\FilmesApi\\FilmesApi\\Profiles\\SessaoProfile.cs",
-              "RelativeDocumentMoniker": "FilmesApi\\Profiles\\SessaoProfile.cs",
-              "ToolTip": "C:\\curso\\FilmesApi\\FilmesApi\\Profiles\\SessaoProfile.cs",
-              "RelativeToolTip": "FilmesApi\\Profiles\\SessaoProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Title": "EnderecoController.cs",
+              "DocumentMoniker": "C:\\curso\\FilmesApi\\FilmesApi\\Controllers\\EnderecoController.cs",
+              "RelativeDocumentMoniker": "FilmesApi\\Controllers\\EnderecoController.cs",
+              "ToolTip": "C:\\curso\\FilmesApi\\FilmesApi\\Controllers\\EnderecoController.cs",
+              "RelativeToolTip": "FilmesApi\\Controllers\\EnderecoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T15:16:14.657Z",
+              "WhenOpened": "2024-08-07T12:57:55.679Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CreateSessaoDto.cs",
-              "DocumentMoniker": "C:\\curso\\FilmesApi\\FilmesApi\\Data\\Dtos\\CreateSessaoDto.cs",
-              "RelativeDocumentMoniker": "FilmesApi\\Data\\Dtos\\CreateSessaoDto.cs",
-              "ToolTip": "C:\\curso\\FilmesApi\\FilmesApi\\Data\\Dtos\\CreateSessaoDto.cs",
-              "RelativeToolTip": "FilmesApi\\Data\\Dtos\\CreateSessaoDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "DocumentIndex": 1,
+              "Title": "FilmeController.cs",
+              "DocumentMoniker": "C:\\curso\\FilmesApi\\FilmesApi\\Controllers\\FilmeController.cs",
+              "RelativeDocumentMoniker": "FilmesApi\\Controllers\\FilmeController.cs",
+              "ToolTip": "C:\\curso\\FilmesApi\\FilmesApi\\Controllers\\FilmeController.cs",
+              "RelativeToolTip": "FilmesApi\\Controllers\\FilmeController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDcAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T15:15:38.137Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ReadSessaoDto.cs",
-              "DocumentMoniker": "C:\\curso\\FilmesApi\\FilmesApi\\Data\\Dtos\\ReadSessaoDto.cs",
-              "RelativeDocumentMoniker": "FilmesApi\\Data\\Dtos\\ReadSessaoDto.cs",
-              "ToolTip": "C:\\curso\\FilmesApi\\FilmesApi\\Data\\Dtos\\ReadSessaoDto.cs",
-              "RelativeToolTip": "FilmesApi\\Data\\Dtos\\ReadSessaoDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T15:14:45.92Z",
+              "WhenOpened": "2024-08-07T12:57:54.675Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Sessao.cs",
-              "DocumentMoniker": "C:\\curso\\FilmesApi\\FilmesApi\\Models\\Sessao.cs",
-              "RelativeDocumentMoniker": "FilmesApi\\Models\\Sessao.cs",
-              "ToolTip": "C:\\curso\\FilmesApi\\FilmesApi\\Models\\Sessao.cs",
-              "RelativeToolTip": "FilmesApi\\Models\\Sessao.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Title": "CinemaController.cs",
+              "DocumentMoniker": "C:\\curso\\FilmesApi\\FilmesApi\\Controllers\\CinemaController.cs",
+              "RelativeDocumentMoniker": "FilmesApi\\Controllers\\CinemaController.cs",
+              "ToolTip": "C:\\curso\\FilmesApi\\FilmesApi\\Controllers\\CinemaController.cs",
+              "RelativeToolTip": "FilmesApi\\Controllers\\CinemaController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA5wB4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T15:13:32.202Z",
+              "WhenOpened": "2024-08-07T12:57:51.436Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Filme.cs",
-              "DocumentMoniker": "C:\\curso\\FilmesApi\\FilmesApi\\Models\\Filme.cs",
-              "RelativeDocumentMoniker": "FilmesApi\\Models\\Filme.cs",
-              "ToolTip": "C:\\curso\\FilmesApi\\FilmesApi\\Models\\Filme.cs",
-              "RelativeToolTip": "FilmesApi\\Models\\Filme.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "Cinema.cs",
+              "DocumentMoniker": "C:\\curso\\FilmesApi\\FilmesApi\\Models\\Cinema.cs",
+              "RelativeDocumentMoniker": "FilmesApi\\Models\\Cinema.cs",
+              "ToolTip": "C:\\curso\\FilmesApi\\FilmesApi\\Models\\Cinema.cs",
+              "RelativeToolTip": "FilmesApi\\Models\\Cinema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T15:23:28.98Z",
+              "WhenOpened": "2024-08-07T12:57:42.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\curso\\FilmesApi\\FilmesApi\\Models\\Endereco.cs",
+              "RelativeDocumentMoniker": "FilmesApi\\Models\\Endereco.cs",
+              "ToolTip": "C:\\curso\\FilmesApi\\FilmesApi\\Models\\Endereco.cs",
+              "RelativeToolTip": "FilmesApi\\Models\\Endereco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:57:41.207Z",
               "EditorCaption": ""
             }
           ]

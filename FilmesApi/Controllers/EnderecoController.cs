@@ -31,7 +31,7 @@ public class EnderecoController : ControllerBase
     [HttpGet]
     public IEnumerable<ReadEnderecoDto> RecuperaEnderecos()
     {
-        return _mapper.Map<List<ReadEnderecoDto>>(_context.Enderecos);   
+        return _mapper.Map<List<ReadEnderecoDto>>(_context.Enderecos).ToList();   
     }
 
     [HttpGet("{id}")]
